@@ -7,7 +7,8 @@ Features of our Hexapod robot are as follows:- <br />
 2.It will trigger a remotely connected alarm system in case of any intrusion over the specified perimeter.
 <br />
 
-  <iframe width="560" height="315" src="//www.youtube.com/embed/qgetKCF70uI?list=UURuHnpEIaMmJVRFnUzmnxJA" frameborder="0" allowfullscreen>your browser doesnot support iframe</iframe>
+The youtube link of the video of hexaod robot is given below:- <br />
+<a href="http://www.youtube.com/watch?v=qgetKCF70uI&list=UURuHnpEIaMmJVRFnUzmnxJA">Hexapod Robot</a>
 
 <br />
 The first file contains the code of just movement of hexapod robot using three servo instead of six servo to make it economical.
