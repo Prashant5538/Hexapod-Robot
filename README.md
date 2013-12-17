@@ -17,4 +17,4 @@ The second file also includes surveillance part alongwith the movement of hexapo
 <br/>
 The logic behind the working of hexapod robot is also explained properly in two pdf presentation alongwith dimension  of legs and body that we have to take to prepare well functional hexapod robot.
 
-<img src="https://github.com/Prashant5538/Hexapod-Robot/blob/master/hexapod.jpg">
+
