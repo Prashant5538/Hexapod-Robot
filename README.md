@@ -16,3 +16,5 @@ The first file contains the code of just movement of hexapod robot using three s
 The second file also includes surveillance part alongwith the movement of hexapod robot.
 <br/>
 The logic behind the working of hexapod robot is also explained properly in two pdf presentation alongwith dimension  of legs and body that we have to take to prepare well functional hexapod robot.
+
+<img src="https://github.com/Prashant5538/Hexapod-Robot/blob/master/hexapod.jpg">
